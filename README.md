@@ -63,7 +63,7 @@ The workflow:
 ## Screenshots
 
 ### Solution Overview
-![screenshots/form-overview.png
+![Microsoft Forms Overview](screenshots/form-overview.png Selection
 
 ### Form Overview
 
