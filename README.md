@@ -97,7 +97,7 @@ using dynamic content.
 
 ### Successful Execution
 
-8. Power Automate runs successfully automatically when a 
+8. Power Automate runs automatically when a 
 new request is submitted.
 
 ![Description of screenshot](screenshots/successful-run.png)
