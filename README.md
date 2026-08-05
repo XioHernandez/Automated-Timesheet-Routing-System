@@ -62,7 +62,7 @@ The workflow:
 
 ## Solution Overview (Screenshots)
 
-### Form Overview
+## Form Overview
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
