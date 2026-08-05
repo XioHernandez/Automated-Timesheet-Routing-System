@@ -50,7 +50,7 @@ to collect payroll adjustment requests.
 The workflow:
 
 1. User selects an Area Supervisor(self).
-2. Forms branching directs users to the appropriate
+2. Form's branching directs users to the appropriate
    section (their cluster of schools).
 3. User completes the adjustment request.
 4. Power Automate retrieves the form response.
