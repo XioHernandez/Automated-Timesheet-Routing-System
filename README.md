@@ -103,6 +103,8 @@ new request is submitted.
 ![Description of screenshot](screenshots/successful-run.png)
 
 ### Final Output
+
 9. Data is automatically written to the correct 
 Excel table + Tab.
+
 ![Description of screenshot](screenshots/final-data-output.png)
