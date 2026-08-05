@@ -78,6 +78,7 @@ User completes the adjustment request.
 
 ### Power Automate Flow
 Power Automate retrieves the form response.
+
 ![Description of screenshot](screenshots/power-automate-flow.png)
 
 ### Switch Routing Logic
