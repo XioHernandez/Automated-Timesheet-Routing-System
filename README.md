@@ -61,9 +61,7 @@ The workflow diagram:
 
 ---
 
-Microsoft Forms
-│
-▼
+### Microsoft Forms
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
