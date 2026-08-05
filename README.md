@@ -50,8 +50,6 @@ to collect payroll adjustment requests.
 
 8. Requests are then organized by supervisor.
 
----
-
 ### Microsoft Forms
 1. Microsoft Forms is accessed
 ![Description of screenshot](screenshots/form-overview.png)
