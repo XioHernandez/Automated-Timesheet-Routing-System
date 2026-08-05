@@ -63,10 +63,10 @@ The workflow:
 ## Solution Overview (Screenshots)
 
 ### Form Overview
-!(screenshots/form-overview.png)
+![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
-![User selects an Area Supervisor (self)](screenshots/supervisor-selection.png)
+![Description of screenshot](screenshots/supervisor-selection.png)
 
 ### Branching Logic
 ![Description of screenshot](screenshots/branching-logic.png)
