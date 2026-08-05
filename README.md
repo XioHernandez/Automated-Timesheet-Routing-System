@@ -63,7 +63,7 @@ The workflow:
 ## Solution Overview (Screenshots)
 
 ### Form Overview
-![Description of screenshot](screenshots/form-overview.png)
+!(screenshots/form-overview.png)
 
 ### Supervisor Selection
 ![User selects an Area Supervisor (self)](screenshots/supervisor-selection.png)
