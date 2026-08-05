@@ -63,7 +63,7 @@ The workflow:
 ## Screenshots
 
 ### Solution Overview
-![reenshots/form-overview.png
+![screenshots/form-overview.png
 
 ### Form Overview
 
