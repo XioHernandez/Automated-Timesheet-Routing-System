@@ -47,9 +47,6 @@ A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
 
 ### Workflow Architecture with screenshots:
----
-
-8. Requests are then organized by supervisor.
 
 ### Microsoft Forms
 1. Microsoft Forms is accessed
@@ -65,27 +62,29 @@ to collect payroll adjustment requests.
 ![Description of screenshot](screenshots/branching-logic.png)
 
 ### Adjustment Form Fields
-User completes the adjustment request.
+4. User completes the adjustment request.
 ![Description of screenshot](screenshots/supervisor-adjustment.png)
 
 ### Power Automate Flow
-Power Automate retrieves the form response.
+5. Power Automate retrieves the form response.
 
 ![Description of screenshot](screenshots/power-automate-flow.png)
 
 ### Switch Routing Logic
-A Switch condition evaluates the selected Area Supervisor.
+6. A Switch condition evaluates the selected Area Supervisor.
 ![Description of screenshot](screenshots/switch-logic.png)
 
 ### Data Mapping
-Microsoft Forms responses are mapped to Excel Online columns
+7. Microsoft Forms responses are mapped to Excel Online columns
 using dynamic content.
 ![Description of screenshot](screenshots/excel-routing.png)
 
 ### Successful Execution
+8. Power Automate runs successfully automatically when a 
+new request is submitted.
 ![Description of screenshot](screenshots/successful-run.png)
 
 ### Final Output
-Data is automatically written to the correct 
+9. Data is automatically written to the correct 
 Excel table + Tab.
 ![Description of screenshot](screenshots/final-data-output.png)
