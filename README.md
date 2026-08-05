@@ -6,7 +6,7 @@ This project automates the collection, routing,
 and tracking of employee timesheet correction 
 requests.
 
-Area Supervisors submit correction requests 
+Supervisors submit correction requests 
 through a centralized Microsoft Form. Power 
 Automate evaluates the selected Area Supervisor 
 and automatically routes the submission to the 
@@ -29,7 +29,7 @@ and processing.
 
 Timesheet correction requests were collected 
 manually and required additional effort to 
-organize by Area Supervisor.
+organize by Supervisor.
 
 Challenges:
 
@@ -41,7 +41,7 @@ Challenges:
 
 ---
 
-## Solution
+# Solution
 
 A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
