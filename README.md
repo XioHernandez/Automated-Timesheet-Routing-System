@@ -66,23 +66,23 @@ The workflow:
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
-1. User selects an Area Supervisor (self).
+User selects an Area Supervisor (self).
 ![Description of screenshot](screenshots/supervisor-selection.png)
 
 ### Branching Logic
-2. Form's branching directs users to the appropriate section (their cluster of schools).
+Form's branching directs users to the appropriate section (their cluster of schools).
 ![Description of screenshot](screenshots/branching-logic.png)
 
 ### Adjustment Form Fields
-3. User completes the adjustment request.
+User completes the adjustment request.
 ![Description of screenshot](screenshots/supervisor-adjustment.png)
 
 ### Power Automate Flow
-4. Power Automate retrieves the form response.
+Power Automate retrieves the form response.
 ![Description of screenshot](screenshots/power-automate-flow.png)
 
 ### Switch Routing Logic
-5. A Switch condition evaluates the selected Area Supervisor.
+A Switch condition evaluates the selected Area Supervisor.
 ![Description of screenshot](screenshots/switch-logic.png)
 
 ### Data Mapping
