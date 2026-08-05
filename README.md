@@ -67,21 +67,26 @@ The workflow:
 ### Form Overview
 ![Description of screenshot](screenshots/form-overview.png)
 
-
 ### Supervisor Selection
+![Description of screenshot](screenshots/supervisor-selection.png)
 
 ### Branching Logic
+![Description of screenshot](screenshots/branching-logic.png)
 
 ### Adjustment Form Fields
+![Description of screenshot](screenshots/supervisor-adjustment.png)
 
 ### Power Automate Flow
+![Description of screenshot](screenshots/power-automate-flow.png)
 
 ### Switch Routing Logic
+![Description of screenshot](screenshots/switch-logic.png)
 
 ### Data Mapping
+![Description of screenshot](screenshots/excel-routing.png)
 
 ### Successful Execution
-
-### Supervisor Routing Output
+![Description of screenshot](screenshots/successful-run.png)
 
 ### Final Output
+![Description of screenshot](screenshots/final-data-output.png)
