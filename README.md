@@ -48,11 +48,11 @@ to collect payroll adjustment requests.
 
 ### Workflow Architecture with screenshots:
 
-### Microsoft Forms
+### Microsoft Form: the form is accessed
 1. Microsoft Forms is accessed
 ![Description of screenshot](screenshots/form-overview.png)
 
-### Supervisor Selection
+### Supervisor Selection: user selects an Area Supervisor (self)
 2. User selects an Area Supervisor (self).
 ![Description of screenshot](screenshots/supervisor-selection.png)
 
