@@ -49,7 +49,7 @@ to collect payroll adjustment requests.
 
 The workflow:
 
-1. User selects an Area Supervisor(self).
+1. User selects an Area Supervisor (self).
 2. Form's branching directs users to the appropriate
    section (their cluster of schools).
 3. User completes the adjustment request.
@@ -66,7 +66,7 @@ The workflow:
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
-![Description of screenshot](screenshots/supervisor-selection.png)
+![User selects an Area Supervisor (self)](screenshots/supervisor-selection.png)
 
 ### Branching Logic
 ![Description of screenshot](screenshots/branching-logic.png)
