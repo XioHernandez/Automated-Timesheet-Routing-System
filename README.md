@@ -48,6 +48,8 @@ to collect payroll adjustment requests.
 
 ### Workflow Architecture with screenshots:
 
+---
+
 ### Microsoft Form: the form is accessed
 1. Microsoft Forms is accessed
 ![Description of screenshot](screenshots/form-overview.png)
