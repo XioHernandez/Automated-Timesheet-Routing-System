@@ -50,11 +50,11 @@ to collect payroll adjustment requests.
 
 ---
 
-### Microsoft Form: the form is accessed
+### Microsoft Form
 1. Microsoft Forms is accessed
 ![Description of screenshot](screenshots/form-overview.png)
 
-### Supervisor Selection: user selects an Area Supervisor (self)
+### Supervisor Selection
 2. User selects an Area Supervisor (self).
 ![Description of screenshot](screenshots/supervisor-selection.png)
 
