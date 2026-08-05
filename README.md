@@ -4,8 +4,7 @@
 
 This project automates the collection, routing, 
 and tracking of employee timesheet correction 
-requests using Microsoft Forms, Power Automate,
-and Excel Online.
+requests.
 
 Area Supervisors submit correction requests 
 through a centralized Microsoft Form. Power 
