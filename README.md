@@ -53,45 +53,53 @@ to collect payroll adjustment requests.
 ### Microsoft Form
 
 1. Microsoft Forms is accessed
+   
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
 
 2. User selects an Area Supervisor (self).
+   
 ![Description of screenshot](screenshots/supervisor-selection.png)
 
 ### Branching Logic
 
 3. Form's branching directs users to the appropriate
    section (their cluster of schools).
+
 ![Description of screenshot](screenshots/branching-logic.png)
 
 ### Adjustment Form Fields
 
 4. User completes the adjustment request.
+   
 ![Description of screenshot](screenshots/supervisor-adjustment.png)
 
 ### Power Automate Flow
 
 5. Power Automate retrieves the form response.
+   
 
 ![Description of screenshot](screenshots/power-automate-flow.png)
 
 ### Switch Routing Logic
 
 6. A Switch condition evaluates the selected Area Supervisor.
+   
 ![Description of screenshot](screenshots/switch-logic.png)
 
 ### Data Mapping
 
 7. Microsoft Forms responses are mapped to Excel Online columns
 using dynamic content.
+
 ![Description of screenshot](screenshots/excel-routing.png)
 
 ### Successful Execution
 
 8. Power Automate runs successfully automatically when a 
 new request is submitted.
+
 ![Description of screenshot](screenshots/successful-run.png)
 
 ### Final Output
