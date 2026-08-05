@@ -47,11 +47,12 @@ A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
 
 ### Workflow Architecture with screenshots:
+---
 
 8. Requests are then organized by supervisor.
 
 ### Microsoft Forms
-* Microsoft Forms is accessed
+1. Microsoft Forms is accessed
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
@@ -59,7 +60,8 @@ to collect payroll adjustment requests.
 ![Description of screenshot](screenshots/supervisor-selection.png)
 
 ### Branching Logic
-3. Form's branching directs users to the appropriate section (their cluster of schools).
+3. Form's branching directs users to the appropriate
+   section (their cluster of schools).
 ![Description of screenshot](screenshots/branching-logic.png)
 
 ### Adjustment Form Fields
@@ -76,11 +78,14 @@ A Switch condition evaluates the selected Area Supervisor.
 ![Description of screenshot](screenshots/switch-logic.png)
 
 ### Data Mapping
+Microsoft Forms responses are mapped to Excel Online columns
+using dynamic content.
 ![Description of screenshot](screenshots/excel-routing.png)
 
 ### Successful Execution
 ![Description of screenshot](screenshots/successful-run.png)
 
 ### Final Output
-Data is automatically written to the correct Excel table + Tab.
+Data is automatically written to the correct 
+Excel table + Tab.
 ![Description of screenshot](screenshots/final-data-output.png)
