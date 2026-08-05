@@ -63,9 +63,10 @@ The workflow:
 ## Screenshots
 
 ### Solution Overview
-![Microsoft Forms Overview](screenshots/form-overview.png Selection
 
 ### Form Overview
+![Description of screenshot](screenshots/form-overview.png)
+
 
 ### Supervisor Selection
 
