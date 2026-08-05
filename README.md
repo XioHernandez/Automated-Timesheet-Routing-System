@@ -62,4 +62,25 @@ The workflow:
 
 ## Screenshots
 
-### Microsoft Form Overview
+### Solution Overview
+screenshots/form-overview.png
+
+### Form Overview
+
+### Supervisor Selection
+
+### Branching Logic
+
+### Adjustment Form Fields
+
+### Power Automate Flow
+
+### Switch Routing Logic
+
+### Data Mapping
+
+### Successful Execution
+
+### Supervisor Routing Output
+
+### Final Output
