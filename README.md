@@ -47,22 +47,26 @@ Challenges:
 A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
 
-The workflow:
+The workflow diagram:
 
-1. User selects an Area Supervisor (self).
-2. Form's branching directs users to the appropriate
+1. Microsoft Forms is accessed
+2. User selects an Area Supervisor (self).
+3. Form's branching directs users to the appropriate
    section (their cluster of schools).
-3. User completes the adjustment request.
-4. Power Automate retrieves the form response.
-5. A Switch condition evaluates the selected Area Supervisor.
-6. Data is automatically written to the correct Excel table + Tab.
-7. Requests are then organized by supervisor.
+4. User completes the adjustment request.
+5. Power Automate retrieves the form response.
+6. A Switch condition evaluates the selected Area Supervisor.
+7. Data is automatically written to the correct Excel table + Tab.
+8. Requests are then organized by supervisor.
 
 ---
 
 ## Solution Overview (Screenshots)
 
 ## Form Overview
+Microsoft Forms
+│
+▼
 ![Description of screenshot](screenshots/form-overview.png)
 
 ### Supervisor Selection
