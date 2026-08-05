@@ -44,7 +44,7 @@ Challenges:
 
 ## Solution
 
-A Microsoft Forms intake solution was developed
+A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
 
 The workflow:
