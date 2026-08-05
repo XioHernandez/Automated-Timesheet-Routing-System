@@ -49,7 +49,7 @@ to collect payroll adjustment requests.
 
 ---
 
-Workflow Architecture with screenshots:
+#Workflow Architecture with screenshots:
 
 8. Requests are then organized by supervisor.
 
