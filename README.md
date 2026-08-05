@@ -42,7 +42,7 @@ Challenges:
 
 ---
 
-## Solution
+## Solution Architecture (screenshots)
 
 A Microsoft Form intake solution was created
 to collect payroll adjustment requests.
@@ -61,10 +61,6 @@ The workflow diagram:
 
 ---
 
-## Solution Overview (Screenshots)
-
-## Form Overview
-'''text
 Microsoft Forms
 │
 ▼
