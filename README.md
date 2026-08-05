@@ -60,9 +60,7 @@ The workflow:
 
 ---
 
-## Screenshots
-
-### Solution Overview
+## Solution Overview (Screenshots)
 
 ### Form Overview
 ![Description of screenshot](screenshots/form-overview.png)
